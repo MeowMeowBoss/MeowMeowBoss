@@ -1,8 +1,8 @@
 <div align="center">
 
-`L E O  T A N  /  A S T R A`
+`M E O W  M E O W  B O S S`
 
-# Beyond the ordinary.
+# Stay curious. Stay pawsome.
 
 **让好奇心落地，让想象力上线。**
 
@@ -13,7 +13,7 @@ AI agents · Creative tools · Open source
 ---
 
 ```text
-leo@astra:~$ cat mission.txt
+meow@universe:~$ cat mission.txt
 
 Explore boldly. Build thoughtfully. Keep learning.
 
@@ -24,7 +24,7 @@ Explore boldly. Build thoughtfully. Keep learning.
 
 ### 🛰️ Current orbit
 
-I’m Leo — exploring how AI can turn ideas into useful, enjoyable experiences. This space is my launchpad for experiments, learning notes, and discoveries worth sharing.
+I’m MeowMeowBoss — exploring how AI can turn ideas into useful, enjoyable experiences. This space is my launchpad for experiments, learning notes, and discoveries worth sharing.
 
 - **AI & agents** — exploring conversational tools and practical workflows.
 - **Creative computing** — connecting visual ideas with interactive experiences.
@@ -40,6 +40,6 @@ I’m Leo — exploring how AI can turn ideas into useful, enjoyable experiences
 
 <div align="center">
 
-**STAY CURIOUS · MAKE IT REAL**
+**STAY CURIOUS · MAKE IT REAL 🐾**
 
 </div>
